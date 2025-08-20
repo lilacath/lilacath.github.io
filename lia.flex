@@ -31,7 +31,7 @@
       }
 
       .navigation {
-        background-color: #e0ffe0;
+        background-color: #a6a7beff;
         padding: 15px;
         width: 200px;
       }
@@ -41,7 +41,7 @@
         flex-direction: column; /* Susun artikel secara vertikal */
         gap: 10px;
         flex-grow: 1; /* Membuat area artikel mengisi ruang yang tersedia */
-        background-color: #080808;
+        background-color: #c280beff;
       }
 
       .article {
@@ -50,7 +50,7 @@
       }
 
       .footer {
-        background-color: #ffe0e0;
+        background-color: #be6db1ff;
         padding: 15px;
         text-align: center;
       }
@@ -96,4 +96,3 @@
     </div>
   </body>
 </html>
-
